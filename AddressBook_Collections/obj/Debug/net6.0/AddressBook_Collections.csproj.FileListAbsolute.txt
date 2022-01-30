@@ -12,3 +12,4 @@ C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collecti
 C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\ref\AddressBook_Collections.dll
 C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.pdb
 C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.genruntimeconfig.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.csproj.AssemblyReference.cache

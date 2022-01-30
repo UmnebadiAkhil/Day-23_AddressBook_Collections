@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\bin\Debug\net6.0\AddressBook_Collections.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\bin\Debug\net6.0\AddressBook_Collections.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\bin\Debug\net6.0\AddressBook_Collections.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\bin\Debug\net6.0\AddressBook_Collections.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\bin\Debug\net6.0\ref\AddressBook_Collections.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\bin\Debug\net6.0\AddressBook_Collections.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\ref\AddressBook_Collections.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-23_AddressBook_Collections\AddressBook_Collections\obj\Debug\net6.0\AddressBook_Collections.genruntimeconfig.cache

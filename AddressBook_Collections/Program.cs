@@ -8,14 +8,15 @@ List<Contact> contacts = new List<Contact>();
 Console.WriteLine("Hello, Welcome to Address Book!");
 //choice = 0 means choice has not made yet
 int choice = 0;
-while (choice != 4)
+while (choice != 5)
 {
     Console.WriteLine("\t********Main Menu***********\t");
     Console.WriteLine("Enter the following choice");
     Console.WriteLine("1. Add Contact");
     Console.WriteLine("2. Edit Contacts");
-    Console.WriteLine("3. Display Contacts");
-    Console.WriteLine("4. Exit");
+    Console.WriteLine("3. Delete Contacts");
+    Console.WriteLine("4. Display Contacts");
+    Console.WriteLine("5. Exit");
     Console.WriteLine("Enter your choice: ");
     choice = Convert.ToInt32(Console.ReadLine());
 
@@ -130,12 +131,28 @@ while (choice != 4)
             break;
 
         case 3:
+            Console.WriteLine("Enter the phone number of the person: ");
+            string fst = Console.ReadLine();
+            List<Contact> lst = new List<Contact>();
+            foreach (Contact c in contacts)
+            {
+                if (c.phone.Equals(fst))
+                {
+                    lst.Add(c);  //can't delete the object while iterating through the list, it leads to exception
+                }
+            }
+            contacts.RemoveAll(i => lst.Contains(i));
+            Console.WriteLine("Contact Deleted Successfully");
+            break;
+
+
+        case 4:
             foreach (Contact c in contacts)
             {
                 Console.WriteLine(c);
             }
             break;
-        case 4:
+        case 5:
             
             break;
     }
